@@ -1,0 +1,19 @@
+
+/**/*.tfstate*
+/**/.terraform
+
+/key/client_key
+/key/client_key.pub
+# Local .terraform directories
+**/.terraform/*
+.terraform/*
+*.hcl
+*.lock*
+../.terraform/*
+terraform.*
+*.tfvars*
+
+# .tfstate files
+*.tfstate
+/**/*.tfstate*
+*.tfstate.*
