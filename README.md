@@ -103,4 +103,4 @@ Type `yes`, and it will prompt you for approval..
 ![Application screenshot](CloudFrontUrl.png)
 
 
-**Thank you so much for reading..😅**
+**Thank you so much for reading..**
